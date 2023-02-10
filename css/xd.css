@@ -5,3 +5,11 @@
 .pagina2{
     grid-template-columns: 50% 50%;
 }
+
+.pagina3 {
+    grid-template-rows: 10% 70%;
+}
+
+.pagina4{
+    grid-template-rows: 10% 70%;
+}
