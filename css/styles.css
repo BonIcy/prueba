@@ -71,7 +71,6 @@ body{
 .p1img{
    display: grid;
    width: 85%;
-
    height: 95%;
    justify-content: center;
    margin-right: 100px;
@@ -182,6 +181,17 @@ body{
    justify-content: center;
    background: #fff;
    width: 320px;
+}.pagina3{
+   display: grid;
+   background: #1e1d2b;
+   width: 100%;
+   height: 100%;
+}
+.p3text{
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
 }
 .p3img .f1{
    height: 100%;
@@ -204,7 +214,9 @@ body{
 }
 .p3img .price1 h3{
    font-size: 17px;
+
 }
+
 .p3img .price1 h4{
    color: #ff702a;
    font-size: 16px;
@@ -245,3 +257,106 @@ body{
    color: #ff702a;
    font-size: 16px;
 }
+
+.pagina4{
+   display: grid;
+   background: #1e1d2b;
+   width: 100%;
+   height: 100%;
+}
+.p4text{
+   display: grid;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+
+.p4text h4{
+   display: grid;
+   color:#ff702a;
+   font-size: 25px;
+}
+.p4text h3{
+   color: #fff;
+   font-size: 65px;
+   padding-bottom: 50px;
+}
+.p4img{
+   display: flex;
+   justify-content: space-evenly;
+   width: 100%;
+   width: 100%;
+   padding-bottom: 25px;
+}
+
+.p4img .info1{
+   display: grid;
+   text-align: center;
+   justify-content: center;
+   width: 33%;
+   height: 90%;
+}
+.p4img .info2{
+   display: grid;
+   text-align: center;
+   justify-content: center;
+   width: 33%;
+   height: 90%;
+}
+.p4img .info3{
+   display: grid;
+   text-align: center;
+   justify-content: center;
+   width: 33%;
+   height: 90%;
+}
+
+.p4img .i1{
+   display: grid;
+   justify-self: center;
+   align-self: center;
+   height: 100%;
+   width: 50%;
+
+}
+.p4img .i2{
+   display: grid;
+   justify-self: center;
+   align-self: center;
+   height: 100%;
+   width: 50%;
+}
+.p4img .i3{
+   display: grid;
+   justify-self: center;
+   align-self: center;
+   height: 100%;
+   width: 50%;
+}
+
+.p4img .info1 h2{
+   color: #ff702a;
+   font-size: 32px;
+}
+.p4img .info1 h3{
+   color: #fff;
+   font-size: 30px;
+}
+
+.p4img .info2 h2{
+   color: #ff702a;
+   font-size: 32px;
+}
+.p4img .info2 h3{
+   color: #fff;
+   font-size: 30px;
+}
+.p4img .info3 h2{
+   color: #ff702a;
+   font-size: 32px;
+}
+.p4img .info3 h3{
+   color: #fff;
+   font-size: 30px;
+}
+
